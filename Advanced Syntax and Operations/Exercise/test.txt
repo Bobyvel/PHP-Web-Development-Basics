@@ -1,0 +1,8 @@
+stock Boca_Cola 10
+stock Boca_Cola 10
+stock Kay's 3
+stock Kay's 2
+shopping time
+buy Boca_Cola 5
+buy Kay's 5
+exam time
